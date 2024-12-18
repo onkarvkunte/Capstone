@@ -63,6 +63,7 @@ The dataset includes:
 
 ## Model Architectures
 ![Alt Text](Images/arch.png)
+<img src="Images/arch.png" alt="Alt Text" width="500" />
 
 
 
