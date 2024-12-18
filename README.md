@@ -83,7 +83,6 @@ The dataset includes:
 ---
 
 ## Results
-![Alt Text](Images/graph.png)
 
 
 | **Models**       | **Training Accuracy (%)** | **Validation Accuracy (%)** |
@@ -108,12 +107,8 @@ The dataset includes:
 
 ### 2. Results and Plots
 
-Generate accuracy and loss plots:
-```bash
-python plot_results.py
-```
+![Alt Text](Images/graph.png)
 
----
 
 ## Future Work
 
