@@ -62,6 +62,8 @@ The dataset includes:
 ---
 
 ## Model Architectures
+![Alt text](Untitled diagram-2024-12-11-184035.png)
+
 
 ### 1. GestureCNN
 - **Type**: Convolutional Neural Network (CNN).
