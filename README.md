@@ -92,36 +92,10 @@ The dataset includes:
 - Matplotlib
 - Pandas
 
----
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gesture-rssi.git
-   cd gesture-rssi
-   ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
----
-
-## Usage
-
-### 1. Training the Model
-
-Run the GRU-based model:
-```bash
-python train_gru.py
-```
-
-Run the CNN-based model:
-```bash
-python train_cnn.py
-```
 
 ### 2. Results and Plots
 
