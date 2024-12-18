@@ -62,7 +62,7 @@ The dataset includes:
 ---
 
 ## Model Architectures
-![Alt Text](Capstone/Untitled diagram-2024-12-11-184035.png)
+![Alt Text](Capstone/Unt.png)
 
 
 
