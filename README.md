@@ -82,7 +82,7 @@ The dataset includes:
 ---
 
 ## Results
-![Alt Text](Capstone/NEw.png)
+![Alt Text](Images/graph.png)
 
 
 | **Models**       | **Training Accuracy (%)** | **Validation Accuracy (%)** |
