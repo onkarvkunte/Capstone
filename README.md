@@ -15,11 +15,9 @@ This repository contains the implementation of a **Wi-Fi RSSI-based gesture reco
 - [Model Architectures](#model-architectures)
 - [Results](#results)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Future Work](#future-work)
 - [Contributors](#contributors)
-- [License](#license)
+
 
 ---
 
